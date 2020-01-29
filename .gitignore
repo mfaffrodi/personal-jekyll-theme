@@ -10,6 +10,7 @@ tramp
 
 _site/
 .sass-cache/
+.jekyll-cache/*
 *.swp
 pkg/
 test/
